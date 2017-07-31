@@ -1,18 +1,18 @@
-## bcash
+## `bcash`
 
 The fork of Bitcoin with base-block scalability
 
 ### what is bcash?
 
-bcash is peer-to-peer electronic cash for the Internet. It is fully decentralized, with no central bank and requires no trusted third parties to operate.
+`bcash` is peer-to-peer electronic cash for the Internet. It is fully decentralized, with no central bank and requires no trusted third parties to operate.
 
 ### is bcash different from 'Bitcoin'?
 
-Yes. bcash is the continuation of the Bitcoin project as peer-to-peer digital cash. It is a fork of the Bitcoin blockchain ledger, with upgraded consensus rules that allow it to grow and scale.
+Yes. `bcash` is the continuation of the Bitcoin project as peer-to-peer digital cash. It is a fork of the Bitcoin blockchain ledger, with upgraded consensus rules that allow it to grow and scale.
 
 ### if I own Bitcoin, do I automatically own bcash too? 
 
-Yes. Because bcash is a fork of the ledger, that means you own the same amount of bcash as you did Bitcoin at the time of the forking block. However, if your Bitcoins are stored by a third party such as an exchange, then you must inquire with them about your cash.
+Yes. Because `bcash` is a fork of the ledger, that means you own the same amount of bcash as you did Bitcoin at the time of the forking block. However, if your Bitcoins are stored by a third party such as an exchange, then you must inquire with them about your bcash.
 
 ### why was a fork needed to create bcash?
 
