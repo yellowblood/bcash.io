@@ -1,4 +1,4 @@
-## `bcash`
+# bcash
 
 the fork of Bitcoin with base-block scalability
 
