@@ -8,7 +8,7 @@ the fork of Bitcoin with base-block scalability
 
 ### where can I discuss bcash?
 
-there is a subreddit here at [r/bcash](https://reddit.com/r/bcash)
+there is a subreddit at [r/bcash](https://reddit.com/r/bcash)
 
 ### is bcash different from 'Bitcoin'?
 
