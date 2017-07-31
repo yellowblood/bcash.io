@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## bcash
 
-You can use the [editor on GitHub](https://github.com/bcashio/bcashio.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The fork of Bitcoin with base-block scalability
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### what is bcash?
 
-### Markdown
+bcash is peer-to-peer electronic cash for the Internet. It is fully decentralized, with no central bank and requires no trusted third parties to operate.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### is bcash different from 'Bitcoin'?
 
-```markdown
-Syntax highlighted code block
+Yes. bcash is the continuation of the Bitcoin project as peer-to-peer digital cash. It is a fork of the Bitcoin blockchain ledger, with upgraded consensus rules that allow it to grow and scale.
 
-# Header 1
-## Header 2
-### Header 3
+### if I own Bitcoin, do I automatically own bcash too? 
 
-- Bulleted
-- List
+Yes. Because bcash is a fork of the ledger, that means you own the same amount of bcash as you did Bitcoin at the time of the forking block. However, if your Bitcoins are stored by a third party such as an exchange, then you must inquire with them about your cash.
 
-1. Numbered
-2. List
+### why was a fork needed to create bcash?
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bcashio/bcashio.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The legacy Bitcoin code had a maximum limit of 1MB of data per block, or about 3 transactions per second. Although technically simple to raise this limit, the community could not reach a consensus, even after years of debate.
