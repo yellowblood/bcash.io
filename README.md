@@ -14,7 +14,7 @@ There is a subreddit at [r/bcash](https://reddit.com/r/bcash)
 
 BCH
 
-### Is bcash different from 'Bitcoin'?
+### Is Bcash different from 'Bitcoin'?
 
 Yes. `Bcash` is the continuation of the Bitcoin project as peer-to-peer digital cash. It is a fork of the Bitcoin blockchain ledger, with upgraded consensus rules that allow it to grow and scale.
 
