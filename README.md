@@ -1,8 +1,4 @@
-# Bcash
-
-The fork of Bitcoin with base-block scalability
-
-### What is Bcash?
+## What is Bcash?
 
 `Bcash` is peer-to-peer electronic cash for the Internet. It is fully decentralized, with no central bank and requires no trusted third parties to operate.
 
